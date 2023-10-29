@@ -10,7 +10,7 @@ import net.minecraftforge.fml.common.Mod
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber
 import us.timinc.mc.cobblemon.capturexp.config.CaptureXPConfig
 
-@Mod("capture_xp")
+@Mod(CaptureXP.MOD_ID)
 object CaptureXP {
     const val MOD_ID = "capture_xp"
     private var captureXPConfig: CaptureXPConfig= CaptureXPConfig.Builder.load()
