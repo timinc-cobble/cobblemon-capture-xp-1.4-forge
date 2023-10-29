@@ -1,3 +1,5 @@
+rootProject.name = "cobblemon-capturexp"
+
 pluginManagement {
     repositories {
         maven("https://maven.fabricmc.net/")

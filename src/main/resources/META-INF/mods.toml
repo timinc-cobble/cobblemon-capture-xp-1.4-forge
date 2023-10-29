@@ -5,9 +5,9 @@ license = "MIT"
 [[mods]]
 modId = "capture_xp"
 version = "1.4-forge-1.0.0"
-displayName = "Grants EXP for your team when you capture a wild Pokemon"
+displayName = "Cobblemon Capture XP"
 description = '''
-
+Grants EXP for your team when you capture a wild Pokemon
 '''
 
 [[dependencies.capture_xp]]
